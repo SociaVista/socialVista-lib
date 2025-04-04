@@ -12,7 +12,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build social-vista-lib",
+    "build": "ng build socialVista-lib",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
